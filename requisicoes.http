@@ -1,0 +1,12 @@
+POST http://localhost:3333/courses
+Content-Type: application/json
+
+{
+  "title": "Curso de Javascript"
+}
+###
+
+GET http://localhost:3333/courses
+
+###
+GET http://localhost:3333/courses/e93557dd-98eb-4996-b82d-d96b4fa6e2f1
