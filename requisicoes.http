@@ -1,12 +1,25 @@
 POST http://localhost:3333/courses
 Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlM2FiNjg3Zi1kYjFiLTRhZDAtODJjMi0zZDI3MWRlY2U4NmQiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1ODM5MjYxMH0.qc3z4gDz7kzwxsfqhPG8-klSecZokWmupeDuQ7fV3c4
 
 {
-  "title": "Curso de Javascript"
+  "title": "Curso de Angular"
 }
 ###
 
-GET http://localhost:3333/courses
+GET http://localhost:3333/courses?orderBy=title
 
 ###
-GET http://localhost:3333/courses/e93557dd-98eb-4996-b82d-d96b4fa6e2f1
+
+GET http://localhost:3333/courses/66fc89d3-934d-4daa-b01e-1f648627f242
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlM2FiNjg3Zi1kYjFiLTRhZDAtODJjMi0zZDI3MWRlY2U4NmQiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1ODM5MjYxMH0.qc3z4gDz7kzwxsfqhPG8-klSecZokWmupeDuQ7fV3c4
+
+###
+
+POST http://localhost:3333/sessions
+Content-Type: application/json
+
+{
+  "email": "Karla.Macedo@gmail.com",
+  "password": "123456"
+}

@@ -15,6 +15,62 @@
       "when": 1757982933955,
       "tag": "0001_chilly_nextwave",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1758225846467,
+      "tag": "0002_white_grandmaster",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1758225948185,
+      "tag": "0003_red_echo",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1758243973606,
+      "tag": "0004_concerned_gunslinger",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1758247139566,
+      "tag": "0005_stale_lightspeed",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1758383172223,
+      "tag": "0006_magenta_pyro",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1758383263896,
+      "tag": "0007_dusty_madelyne_pryor",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1758383701975,
+      "tag": "0008_striped_silver_samurai",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1758383752865,
+      "tag": "0009_cultured_tag",
+      "breakpoints": true
     }
   ]
 }
