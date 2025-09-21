@@ -3,6 +3,7 @@
 Repositório de exemplo com uma API construída em Node.js + Typescript usando Fastify e Drizzle ORM.
 
 ## Sumário
+
 - **Descrição**: visão geral do projeto
 - **Pré-requisitos**: software necessário
 - **Instalação**: como instalar dependências
